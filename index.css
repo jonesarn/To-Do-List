@@ -1,0 +1,9 @@
+body {
+    background-color: darksalmon;
+}
+
+.ToDo-box {
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+}
